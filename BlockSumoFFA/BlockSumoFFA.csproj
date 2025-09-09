@@ -4,6 +4,12 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+        <PackageId>MinecraftDotnet.Game.BlockSumoFFA</PackageId>
+        <Title>Block Sumo FFA</Title>
+        <Authors>CoPokBl</Authors>
+        <PackageProjectUrl>https://github.com/Serble/BlockSumoFFA</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/Serble/BlockSumoFFA.git</RepositoryUrl>
     </PropertyGroup>
 
     <ItemGroup>
